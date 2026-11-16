@@ -1,0 +1,6 @@
+{
+  "name": "실시간 전기 시세",
+  "description": "오늘의 전력 시장 SMP·REC 실시간 시세 및 시간대별 전기요금 예측 모바일 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
